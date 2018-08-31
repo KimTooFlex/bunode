@@ -1,0 +1,26 @@
+{
+  "name": "bunode",
+  "version": "1.0.0",
+  "description": "Bunode Global state package for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimTooFlex/bunode.git"
+  },
+  "keywords": [
+    "bunode",
+    "c#"
+  ],
+  "author": "Kim Too Flex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimTooFlex/bunode/issues"
+  },
+  "homepage": "https://github.com/KimTooFlex/bunode#readme",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
